@@ -198,3 +198,32 @@ footer {
         margin: 10px 0;
     }
 }
+#certifications {
+    padding: 100px 10%;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.certification-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Adjust spacing between certifications */
+}
+
+.certification {
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    width: 80%;
+}
+
+.certification h3 {
+    color: #facc15;
+}
+
+.certification p {
+    color: #cbd5e1;
+}
