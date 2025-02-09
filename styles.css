@@ -150,13 +150,13 @@ p {
 
 /* Contact */
 #contact p {
-    text-align: left;
+    
     font-size: 1.2rem;
     margin: 10px 0;
 }
 
 #contact a {
-    
+    text-align: left;
     color: #facc15;
     text-decoration: none;
     font-weight: 600;
